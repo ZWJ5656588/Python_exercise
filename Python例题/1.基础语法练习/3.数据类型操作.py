@@ -21,6 +21,8 @@ print(type(str5))
 print("-"*20)
 
 
-
 help(issubclass)
 """看方法文档的方法"""
+
+print('-'*20)
+
